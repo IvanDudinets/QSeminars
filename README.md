@@ -4,3 +4,9 @@
 > https://arxiv.org/abs/quant-ph/0508124
 
 >https://dec41.user.srcf.net/notes/III_M/quantum_computation.pdf 
+
+# AQC
+
+> https://www.scottaaronson.com/showcase2/report/charles-epstein.pdf
+
+> https://arxiv.org/pdf/quant-ph/0107015

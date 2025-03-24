@@ -10,3 +10,8 @@
 > https://www.scottaaronson.com/showcase2/report/charles-epstein.pdf
 
 > https://arxiv.org/pdf/quant-ph/0107015
+
+# QTN
+
+> https://arxiv.org/abs/1708.00006
+> https://arxiv.org/abs/1603.03039
